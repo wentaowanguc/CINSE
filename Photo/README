@@ -1,0 +1,16 @@
+We have four sub-folders under this folder
+
+History: Stores all photos was displaied on our TV
+         Naming convention for files under this folder: EventName+Year[+SerialNumber]
+
+PS: Stores all PSD files
+    Naming convention for files under this folder: EventName+Year[+SerialNumber]
+
+Source: Stores all original photo files
+        Naming convention for files under this folder: None
+
+TV: Stores all photos (JPEG files) that is currently didplaied on our TV
+    Naming convention for files under this folder: SerialNumber
+    
+If you want to add new sub-folders, please ask our manager and help her/him to provide description of the folder 
+and naming conventionfor files under your folder.
